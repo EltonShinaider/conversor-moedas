@@ -26,6 +26,6 @@ $ desafio-conversor-moedas/
 │       └── ApiImportarMoedas
 │       └── ExchangeRate
 ├── .gitignore
-├── desafio-conversor-moedas.iml
-└── README.md
+├── README.md
+└── desafio-conversor-moedas.iml
 ```
