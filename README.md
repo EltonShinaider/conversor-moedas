@@ -7,7 +7,8 @@ O resultado da conversão deve ser exibido na tela.
 
 # Funcionalidades
 
-- Converter moedas de vários países.
+- Converter moedas de vários países;
+- Utilização de API para coonversão das moedas solicitadas;
 
 
 # Estrutura e stack utilizada
